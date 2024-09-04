@@ -1,0 +1,6 @@
+name = input()
+age = int(input())
+department = input()
+print("My name is",name)
+print("My age is",age)
+print("My department is",department)

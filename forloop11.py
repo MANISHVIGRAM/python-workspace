@@ -1,0 +1,11 @@
+print("ADDING ELEMENTS IN AN ARRAY")
+print("APPEND method is used add elements in an array")
+a=[]
+a.append(1)
+a.append(2)
+a.append(3)
+a.append(4)
+b=int(input())
+a.append(b)
+print("********************")
+print(a)
